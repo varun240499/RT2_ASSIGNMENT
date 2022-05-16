@@ -1,5 +1,5 @@
 ## Assignment of the Research Track 2 course 
- Durga Varun Gangesetti (matricola 508219)
+ Durga Varun Gangesetti (matricola 5058219)
 
 # About the assignment
 The robot starts from the origin with out any orientation or velocity. When the user is requestes the gotopoint requests the (x,y,theta)  to position server and position server returns the values. Action server is used to pause the simullation.
