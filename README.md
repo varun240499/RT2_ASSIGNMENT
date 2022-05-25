@@ -25,7 +25,7 @@ The ActionClient and ActionServer communicate via a "ROS Action Protocol", which
 
 
 
-# Excuting the package(individual)
+# Executing the package(individual)
 
 create a workspace in root repositories
 
